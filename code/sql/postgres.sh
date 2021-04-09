@@ -10,3 +10,9 @@ describe <table>;
 \du # Show users
 create database <database>; # create new db
 \x auto # pretty print
+
+UPDATE table_name
+SET column1 = value1,
+    column2 = value2,
+    ...
+WHERE condition;
