@@ -1,5 +1,9 @@
 import MockDate from 'mockdate';
 
+// https://github.com/HugoDF/jest-mock-date-examples
+// new Date()
+// Date.now()
+
 describe('with MockDate', () => {
   beforeAll(() => {
     MockDate.set(new Date('2019-05-14T11:01:58.135Z'));
@@ -32,7 +36,7 @@ describe('date', () => {
     const date = new Date();
     expect(date).toEqual(new Date('2019-05-14T11:01:58.135Z'));
   });
-  
+
   it('mocks now', () => {
     jest
       .spyOn(global, 'Date')
