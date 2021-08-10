@@ -1,6 +1,7 @@
 source: https://www.youtube.com/watch?v=7-fRtd8LUwA&amp%3Bfeature=youtu.bel&ab_channel=ExploreDDD
 
 How does the system want to behave?
+What is the pen and paper version of this system (no tech)?
 
 ## Benefits
 * DDD and clean architecture problem solving learned by doing with arts and crafts. Helps think outside the box. 
@@ -30,7 +31,7 @@ AKA: Domain graph, communication graph, relationship graph
 ## Snap-E
 AKA: Service Info Card, shorthand documentation, BORIS discovery notes
 
-Capture information descovered about the service
+Capture information discovered about the service
 
 * APIs, Data, Business rules, Pub/Sub, and Risks
 

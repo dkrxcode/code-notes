@@ -6,6 +6,41 @@ http://rpgsystems.wikidot.com/burning-wheel
 https://rpg.stackexchange.com/questions/4801/how-to-design-game-elements-other-than-combat/4907
 https://rpg.stackexchange.com/questions/27516/how-can-i-simplify-duel-of-wits-to-make-it-more-like-bloody-versus
 
+
+Combat has a cost, so diplomancy is encurage 
+each argument is like a summoned creature in magic
+you have to attack the individual arguments are distract them
+Your main argument is your tank argument, supporting arguments
+
+Or what about a system where you befriend or threaten and then 
+do a finishing move where you attempt to successfully perswade them
+- so you build up a more powerful chance for success if they have 
+- loyal, fearful, or owe you one
+  
+Bars:
+- shared values: religion, culture, goals, honor
+- loyal friendship: befriend, charm, genuine compliments, seduce
+- purchased reciprocation: gifts, bribes, prestige/noble compliments
+- fearful obedience: intimidate, threats, insults, authority, tourchure 
+
+Friendship: befriend them and try to persuade them
+Reciprocation: invest in them and then withdraw a favor
+Obedience: make them fear you and then give them a command
+
+win them over using
+- Cheers: Encourage (confidence), excite (exited), cheer (excited)
+- Charms: Impress (impressed), Inspiring course (Confidence), Seduce (impressed), Heartplay
+- Compliments: 
+  
+or scare them away by 
+- Insults: Terrify (Terrified), group insult (enraged)
+- Taunts: Enrage (enraged), 
+- Humiliation: Deride (enraged), sadden, Lecture (sadden)
+
+Emotions: 
+- confidence/saddened, excited/enraged, impressed/terrified
+- saddened, enraged, terrified
+
 ## 
 A diplomatic dialoge scene is about domination. Who is dominate? Who wins the scene?
 - each actor wants something, and they are in conflict 
@@ -41,9 +76,6 @@ Demand Bribe, Information,
 Posture/Confidence
 Hesitate
 Interupt/Talk over
-
-Compliments and Insults
-- vain or weak
 
 Character/Emotion vs Argurment (you can attack either)
 Each character must keep their cool in order to win

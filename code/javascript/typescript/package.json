@@ -1,0 +1,20 @@
+{
+  "name": "typescript-notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --notify"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "@types/node": "^14.14.20",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.5.5"
+  },
+  "dependencies": {
+    "ts-node": "^10.0.0"
+  }
+}

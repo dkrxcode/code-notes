@@ -2,10 +2,22 @@
 <html>
 <head>
   <title>App</title>
-  <link rel="stylesheet" href="css/styles.css">
+  <style>
+    body {
+
+    }
+  </style>
 </head>
-<div id="app"/>
+<div id="root"/>
 <body>
-<script src="js/index.js"></script>
+<script type="module">
+  import {sum} from './boilerplate/sum.js'
+
+  document.getElementById('root')
+    .append(
+      document.createTextNode(`Hello World ${sum(1, 2)}`)
+    );
+
+</script>
 </body>
 </html>
